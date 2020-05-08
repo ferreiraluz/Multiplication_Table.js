@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    text-align: center;
+    background-color: dodgerblue;
+    padding: 20px;
+}
+
+header h2{
+    margin-top: 5px;
+    color: white;
+}
+
+section{
+    max-width: 500px;
+    max-height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: dodgerblue;
+    line-height: 40px;
+    color: white;
+    border-radius: 15px;
+    
+}
+
+.form{
+    margin-left: 10px;
+}
+
+.res{
+    margin-left: 10px;
+}
